@@ -6,4 +6,5 @@
 <sub>![alt text](https://img.shields.io/badge/%20Pipex-Finished%20100/100%20Success-green?style=plastic&logo=42)</sub>
 <sub>![alt text](https://img.shields.io/badge/%20Push_swap-84/100%20Success-green?style=plastic&logo=42)</sub>
 <sub>![alt text](https://img.shields.io/badge/%20Minishell-125/100%20★%20Success-green?style=plastic&logo=42)</sub>
+<sub>![alt text](https://img.shields.io/badge/%20Philosophers-Work%20in%20progress-orange?style=plastic&logo=42)</sub>
 <sub>![alt text](https://img.shields.io/badge/%20-c3Nz-CC0000?logoColor=black&labelColor=white&style=plastic&logo=42)</sub>
