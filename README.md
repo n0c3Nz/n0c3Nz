@@ -10,6 +10,8 @@
 <sub>![alt text](https://img.shields.io/badge/%20Cub3D-105/100%20Success-green?style=plastic&logo=42)</sub>
 <sub>![alt text](https://img.shields.io/badge/%20CPP_0-Finished%20N/e-black?style=plastic&logo=42)</sub>
 <sub>![alt text](https://img.shields.io/badge/%20CPP_1-Finished%20N/e-black?style=plastic&logo=42)</sub>
-<sub>![alt text](https://img.shields.io/badge/%20CPP_2-Work%20in%20progress-orange?style=plastic&logo=42)</sub>
-<sub>![alt text](https://img.shields.io/badge/%20Exam_04-Work%20in%20progress-orange?style=plastic&logo=42)</sub>
+<sub>![alt text](https://img.shields.io/badge/%20CPP_2-Finished%20N/e-black?style=plastic&logo=42)</sub>
+<sub>![alt text](https://img.shields.io/badge/%20CPP_3-Finished%20N/e-black?style=plastic&logo=42)</sub>
+<sub>![alt text](https://img.shields.io/badge/%20CPP_4-Work%20in%20progress-orange?style=plastic&logo=42)</sub>
+
 <sub>![alt text](https://img.shields.io/badge/%20-c3Nz-CC0000?logoColor=black&labelColor=white&style=plastic&logo=42)</sub>
