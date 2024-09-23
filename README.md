@@ -8,7 +8,7 @@
 <sub>![alt text](https://img.shields.io/badge/%20Minishell-125/100%20★%20Success-green?style=plastic&logo=42)</sub>
 <sub>![alt text](https://img.shields.io/badge/%20Philosophers-100/100%20Success-green?style=plastic&logo=42)</sub>
 <sub>![alt text](https://img.shields.io/badge/%20Cub3D-105/100%20Success-green?style=plastic&logo=42)</sub>
-<sub>![alt text](https://img.shields.io/badge/%20CPP-80/100%20Success-green?style=plastic&logo=42)</sub>
+<sub>![alt text](https://img.shields.io/badge/%20CPP_0-80/100%20Success-green?style=plastic&logo=42)</sub>
 <sub>![alt text](https://img.shields.io/badge/%20CPP_1-80/100%20Success-green?style=plastic&logo=42)</sub>
 <sub>![alt text](https://img.shields.io/badge/%20CPP_2-80/100%20Success-green?style=plastic&logo=42)</sub>
 <sub>![alt text](https://img.shields.io/badge/%20CPP_3-Finished%20N/e-black?style=plastic&logo=42)</sub>
