@@ -15,7 +15,9 @@
 <sub>![alt text](https://img.shields.io/badge/%20CPP_4-Finished%20N/e-black?style=plastic&logo=42)</sub>
 <sub>![alt text](https://img.shields.io/badge/%20CPP_5-Finished%20N/e-black?style=plastic&logo=42)</sub>
 <sub>![alt text](https://img.shields.io/badge/%20CPP_6-Finished%20N/e-black?style=plastic&logo=42)</sub>
+<sub>![alt text](https://img.shields.io/badge/%20CPP_7-Finished%20N/e-black?style=plastic&logo=42)</sub>
+<sub>![alt text](https://img.shields.io/badge/%20CPP_8-Finished%20N/e-black?style=plastic&logo=42)</sub>
+<sub>![alt text](https://img.shields.io/badge/%20CPP_9-Work%20in%20progress-orange?style=plastic&logo=42)</sub>
 <sub>![alt text](https://img.shields.io/badge/%20Net_Practice-Finished%20N/e-black?style=plastic&logo=42)</sub>
-<sub>![alt text](https://img.shields.io/badge/%20CPP_7-Work%20in%20progress-orange?style=plastic&logo=42)</sub>
 
 <sub>![alt text](https://img.shields.io/badge/%20-c3Nz-CC0000?logoColor=black&labelColor=white&style=plastic&logo=42)</sub>
