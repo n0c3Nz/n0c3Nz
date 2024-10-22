@@ -18,7 +18,7 @@
 <sub>![alt text](https://img.shields.io/badge/%20CPP_7-Finished%20N/e-black?style=plastic&logo=42)</sub>
 <sub>![alt text](https://img.shields.io/badge/%20CPP_8-Finished%20N/e-black?style=plastic&logo=42)</sub>
 <sub>![alt text](https://img.shields.io/badge/%20CPP_9-Finished%20N/e-black?style=plastic&logo=42)</sub>
-<sub>![alt text](https://img.shields.io/badge/%20Net_Practice-Finished%20N/e-black?style=plastic&logo=42)</sub>
+<sub>![alt text](https://img.shields.io/badge/%20Net_Practice-100/100%20Success-green?style=plastic&logo=42)</sub>
 <sub>![alt text](https://img.shields.io/badge/%20Inception-Work%20in%20progress-orange?style=plastic&logo=42)</sub>
 <sub>![alt text](https://img.shields.io/badge/%20Ft_IRC-Work%20in%20progress-orange?style=plastic&logo=42)</sub>
 
