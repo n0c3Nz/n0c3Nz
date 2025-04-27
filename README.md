@@ -67,7 +67,7 @@
 
 #### 🏅 Rank 5
 ![Inception](https://img.shields.io/badge/%20Inception-100/100%20Success-green?style=plastic&logo=42)
-![IRC](https://img.shields.io/badge/%20Ft_IRC-Done_N/e-black?style=plastic&logo=42)
+![IRC](https://img.shields.io/badge/%20Ft_IRC-100/100%20Success-green?style=plastic&logo=42)
 
 * [**inception**](https://github.com/n0c3Nz/inception) - Servicios Docker
 * [**ft_irc**](https://github.com/n0c3Nz/IRC) - Servidor IRC
