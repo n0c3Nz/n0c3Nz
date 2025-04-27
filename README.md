@@ -75,7 +75,7 @@
 #### 🎖️ Rank 6
 ![Transcendence](https://img.shields.io/badge/%20Transcendence-125/100%20Success-green?style=plastic&logo=42)
 
-* [**transcendence**](https://github.com/n0c3nz/Barely-Transcendence) - Pong Online
+* [**transcendence**](https://github.com/n0c3Nz/Barely-Transcendent) - Pong Online
 
 
 ## 📊 Stats
