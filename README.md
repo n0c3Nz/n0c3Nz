@@ -1,6 +1,6 @@
 # 42 Campus Projects
 
-<img src="https://pbs.twimg.com/profile_images/1810966764286554112/n1XDT3oK_400x400.jpg" alt="42 Logo" width="150"/>
+<img src="https://junsantilla.gallerycdn.vsassets.io/extensions/junsantilla/42-header/0.1.1/1709671040187/Microsoft.VisualStudio.Services.Icons.Default" alt="42 Logo" width="150"/>
 
 ## 🎓 Curriculum
 
