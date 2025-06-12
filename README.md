@@ -77,7 +77,7 @@
 
 * [**transcendence**](https://github.com/n0c3Nz/Barely-Transcendent) - Pong Online
 
-#### 🎖️ Outcore
+#### ⭐ Outcore
 ![Snow-crash](https://img.shields.io/badge/%20Snowcrash-N/e-black?style=plastic&logo=42)
 * [**snow-crash**](https://github.com/n0c3Nz/) - Privilege escalation CTF
 ## 📊 Stats
